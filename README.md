@@ -14,6 +14,6 @@ Run the notebooks in the following order:
  2. Network_Traffic-Data_Analysis-1.ipynb
  3. Network_Traffic-Data_Analysis-2.ipynb
  
- 
+Thanks to "Data Analytics For IT Networks" book by John Garret which guided me in this exercise.  
 
  
